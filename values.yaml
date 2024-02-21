@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: adithm123/git
+  repository: muhnishmalk/git
   tag: 31
 
 service:
