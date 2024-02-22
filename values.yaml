@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: muhnishmalk/git
-  tag: 31
+  tag: 2
 
 service:
   type: NodePort
